@@ -1,0 +1,6 @@
+{
+  "name": "OmniMobile",
+  "description": "Your one-stop shop for phones, tablets & accessories with unbeatable price comparisons, reviews, fast shipping, device care subscriptions, loyalty rewards, and 24/7 customer support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
